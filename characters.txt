@@ -1,0 +1,9 @@
+character name|stamina|gold|candies
+JellyBean_Jane|100|50|Frosty Fizz,Caramel Comet,Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Caramel Comet,Crimson Crystal,Toxic Taffy,Bubblegum Blast
+Chocolate_Charlie|50|100|Toxic Taffy,Frosty Fizz,Lucky Licorice,Caramel Comet,Fearsome Fudge,Bubblegum Blast,Breezy Butterscotch,Toxic Taffy,Crimson Crystal
+Toffee_Todd|100|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Breezy Butterscotch,Crimson Crystal,Lucky Licorice,Toxic Taffy,Fearsome Fudge
+Caramel_Carl|100|50|Toxic Taffy,Frosty Fizz,Breezy Butterscotch,Caramel Comet,Toxic Taffy,Fearsome Fudge,Lucky Licorice,Caramel Comet,Crimson Crystal
+Licorice_Levi|100|50|Frosty Fizz,Caramel Comet,Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Caramel Comet,Crimson Crystal,Toxic Taffy,Bubblegum Blast
+Marshmallow_Mikasa|50|100|Toxic Taffy,Frosty Fizz,Lucky Licorice,Caramel Comet,Fearsome Fudge,Bubblegum Blast,Breezy Butterscotch,Toxic Taffy,Crimson Crystal
+Hershey_Hange|100|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Breezy Butterscotch,Crimson Crystal,Lucky Licorice,Toxic Taffy,Fearsome Fudge
+Eclair_Eren|100|50|Toxic Taffy,Frosty Fizz,Breezy Butterscotch,Caramel Comet,Toxic Taffy,Fearsome Fudge,Lucky Licorice,Caramel Comet,Crimson Crystal

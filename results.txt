@@ -1,0 +1,18 @@
+2 has won!
+End of Game Statistics:
+Player name: 1
+Character: JellyBean_Jane
+Stamina: 69
+Gold: -2.5
+Candies:
+[Frosty Fizz]   [Breezy Butterscotch]   [Lucky Licorice]   
+[Caramel Comet]   [Crimson Crystal]   [Bubblegum Blast]   
+[Bubblegum Blast]   [Jellybean of Vigor]   [Empty]
+Player name: 2
+Character: Chocolate_Charlie
+Stamina: 15
+Gold: 21
+Candies:
+[Toxic Taffy]   [Frosty Fizz]   [Lucky Licorice]   
+[Breezy Butterscotch]   [Toxic Taffy]   [Crimson Crystal]   
+[Jellybean of Vigor]   [Empty][Empty]
